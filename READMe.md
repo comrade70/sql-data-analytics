@@ -1,1 +1,0 @@
-# SQL Data Analytics Pproject
