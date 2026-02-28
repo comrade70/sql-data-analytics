@@ -26,7 +26,7 @@ The analysis covers:
 - Product category contribution to overall sales  
 - Segmentation of products into cost ranges and count distribution
 
-## Techniques Used  
+## Some Key Skills  
 
 - SQL Aggregations  
 - Window Functions 
