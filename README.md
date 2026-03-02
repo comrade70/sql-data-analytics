@@ -25,6 +25,7 @@ The analysis covers:
 - Performance classification
 - Product category contribution to overall sales  
 - Segmentation of products into cost ranges and count distribution
+- Customer Analytics View
 
 ## Some Key Skills  
 
