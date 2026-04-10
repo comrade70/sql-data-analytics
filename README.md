@@ -40,13 +40,6 @@ The analysis covers:
 - Data grouping and sorting  
 - Percentage calculations  
 
-## Database Used
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
-
 ## Analytics Stack
 - MySQL
 - SQL
