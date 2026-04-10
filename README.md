@@ -1,5 +1,9 @@
 # 📊 SQL Analytics Project  
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
 ## Project Overview  
 
 This project demonstrates the use of SQL to perform business-focused data analysis.  
@@ -41,3 +45,13 @@ The analysis covers:
 <p align="left">
   <img src="https://img.shields.io/badge/Database-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
+
+
+## Analytics Stack
+- MySQL
+- SQL
+- Power BI
+
+## Dashboard 
+
+![Sales and Distribution Dashboard](sales_and_revenue_dashboard.png)
