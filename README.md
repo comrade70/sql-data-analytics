@@ -7,7 +7,7 @@ The goal is to transform raw transactional datasets into meaningful insights tha
 
 ## Business Value  
 
-This project helps businesses:
+This project helps the business:
 
 - Identify top-performing product categories  
 - Understand pricing distribution  
@@ -27,7 +27,7 @@ The analysis covers:
 - Segmentation of products into cost ranges and count distribution
 - Customer Analytics View
 
-## Some Key Skills  
+## Some Key Skills Used
 
 - SQL Aggregations  
 - Window Functions 
